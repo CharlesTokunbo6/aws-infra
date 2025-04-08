@@ -4,7 +4,6 @@ This repository contains Terraform code for deploying a comprehensive AWS infras
 
 ## Architecture Overview
 
-![AWS Infrastructure Architecture](https://via.placeholder.com/800x400?text=AWS+Infrastructure+Architecture)
 
 The infrastructure consists of the following components:
 
